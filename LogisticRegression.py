@@ -1,5 +1,4 @@
 import numpy as np
-import scipy as sp
 def loadDataSet():
     dataIn = []
     labelIn = []
@@ -33,6 +32,8 @@ def test(dataIn, labelIn):
         theta, costfunction = costFunction_gradient(dataMatrix, labelMatrix, theta, m)
         print(costfunction)
     print(theta)
+
+
 
 
 

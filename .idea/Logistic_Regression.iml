@@ -5,6 +5,7 @@
     <orderEntry type="jdk" jdkName="Python 3.6.3 (/usr/bin/python3.6)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="KNN-in-python" />
+    <orderEntry type="module" module-name="LogisticRegression" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

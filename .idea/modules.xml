@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../KNN-in-python/.idea/KNN-in-python.iml" filepath="$PROJECT_DIR$/../KNN-in-python/.idea/KNN-in-python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LogisticRegression/.idea/LogisticRegression.iml" filepath="$PROJECT_DIR$/../LogisticRegression/.idea/LogisticRegression.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LogisticRegression.iml" filepath="$PROJECT_DIR$/.idea/LogisticRegression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Logistic_Regression.iml" filepath="$PROJECT_DIR$/.idea/Logistic_Regression.iml" />
     </modules>
   </component>
 </project>
